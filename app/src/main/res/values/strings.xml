@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GpsLocation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt_salva_posicao_destino">Salva Posicao</string>
+    <string name="txt_posicao_atual">Posição Atual:</string>
+    <string name="bt_iniciar_gps">Inciar GPS</string>
+</resources>
