@@ -6,4 +6,5 @@
     <string name="bt_salva_posicao_destino">Salva Posicao</string>
     <string name="txt_posicao_atual">Posição Atual:</string>
     <string name="bt_iniciar_gps">Inciar GPS</string>
+    <string name="bt_salvar_logs_gps">Salvar leituras GPS</string>
 </resources>
